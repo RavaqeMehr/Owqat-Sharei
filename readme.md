@@ -36,3 +36,7 @@
 - غروب آفتاب
 - اذان مغرب
 - نیمه شب شرعی
+
+## استفاده مستقیم از فایل‌ها
+
+آدرس فایل استان از `https://raw.githubusercontent.com/RavaqeMehr/Owqat-Sharei/main/data/1402/Ostan.json` به صورت مستقیم قابل استفاده است. باقی فایل‌ها با استفاده از `https://raw.githubusercontent.com/RavaqeMehr/Owqat-Sharei/main/` + آدرس فایل در پروژه در دست‌رس است.
